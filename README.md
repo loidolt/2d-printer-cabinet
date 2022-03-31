@@ -2,7 +2,7 @@
 date: 10/19/2018
 tags: woodworking
 excerpt:
-slug:
+slug: 2d-printer-cabinet
 attribution:
 ---
 # 2D Printer Cabinet
