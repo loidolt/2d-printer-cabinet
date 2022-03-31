@@ -1,3 +1,10 @@
+---
+date: 10/19/2018
+tags: woodworking
+excerpt:
+slug:
+attribution:
+---
 # 2D Printer Cabinet
 
 ## Summary
